@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-This is version 9
-=======
-This is version 8
-
->>>>>>> refs/remotes/origin/master
